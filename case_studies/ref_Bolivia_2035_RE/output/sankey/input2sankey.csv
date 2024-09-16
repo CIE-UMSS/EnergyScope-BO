@@ -1,0 +1,41 @@
+source,target,realValue,layerID,layerColor,layerUnit
+LFO,Non-energy demand,0.29,LFO,#8B008B,TWh
+Gas,Non-energy demand,2.12,Gas,#FFD700,TWh
+Prod. & Imp. Gasoline,Gasoline,14.46,Gasoline,#808080,TWh
+Gasoline,Mob priv,15.90,Gasoline,#808080,TWh
+Gasoline,Mob public,0.66,Gasoline,#808080,TWh
+Prod. & Imp. Diesel,Diesel,9.67,Diesel,#D3D3D3,TWh
+Diesel,Mob priv,8.52,Diesel,#D3D3D3,TWh
+Diesel,Mob public,0.40,Diesel,#D3D3D3,TWh
+Diesel,Freight,6.76,Diesel,#D3D3D3,TWh
+Gas Prod,Gas,0.00,GAS,#FFD700,TWh
+Gas,Mob priv,5.68,GAS,#FFD700,TWh
+Gas,Mob public,0.34,GAS,#FFD700,TWh
+Gas,Boilers,4.86,GAS,#FFD700,TWh
+Biomass,Elec,0.06,Biomass,#CD853F,TWh
+Wind,Elec,15.69,Wind,#27AE34,TWh
+Hydro River,Elec,0.31,Hydro River,#0000FF,TWh
+Hydro Dam,Elec,6.57,Hydro Dam,#0000FF,TWh
+Biomass,Elec,6.45,Biomass,#CD853F,TWh
+Solar,Elec,26.16,Solar,#FFFF00,TWh
+Solar,Dec. sto,0.00,Solar,#FFFF00,TWh
+Solar,HW,0.02,Solar,#FFFF00,TWh
+Geothermal,Elec,2.37,Geothermal,#FF0000,TWh
+LFO,Freight,1.40,LFO,#8B008B,TWh
+Elec,Mob priv,4.07,Electricity,#00BFFF,TWh
+Elec,Mob public,0.15,Electricity,#00BFFF,TWh
+Elec,Freight,1.21,Electricity,#00BFFF,TWh
+Elec,Losses,8.90,Electricity,#00BFFF,TWh
+Elec,Elec demand,10.14,Electricity,#00BFFF,TWh
+Solar,Losses,1.09,Solar,#FFFF00,TWh
+Wind,Losses,0.55,Wind,#27AE34,TWh
+Elec,Cooking urban,4.94,Electricity,#00BFFF,TWh
+Elec,Cooking rural,1.99,Electricity,#00BFFF,TWh
+Elec,HW,2.51,Electricity,#00BFFF,TWh
+Elec,Heat HT,15.36,Electricity,#00BFFF,TWh
+Biomass,Bioethanol,5.35,Biomass,#CD853F,TWh
+Bioethanol,Gasoline,2.10,Gasoline,#808080,TWh
+Biomass,Biodiesel,28.61,Biomass,#CD853F,TWh
+Biodiesel,Diesel,6.01,Diesel,#D3D3D3,TWh
+Boilers,Heat HT,4.51,Heat HT,#DC143C,TWh
+Heat HT,Ind Heat Demand,19.87,Heat HT,#DC143C,TWh
