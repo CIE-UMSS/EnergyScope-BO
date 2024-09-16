@@ -11,6 +11,7 @@ energyscope/preprocessing/__pycache__/
 
 *.log
 
+
 energyscope/postprocessing/__pycache__/
 
 energyscope/postprocessing/draw_sankey/__pycache__/
